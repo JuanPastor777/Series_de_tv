@@ -5,12 +5,12 @@ El protagonista es Patric jane, que trata de encontrar al asesino de su hija y e
 ## Personajes
 ### Protagonistas.
 -Patric Jane.
--Teresa Lisbon.
+Teresa Lisbon.
 Imagen
 ![Imagen de Patric Y Lisbon.](https://www.lavanguardia.com/files/image_948_465/uploads/2015/01/08/5fa276c94d71e.jpeg)
 ### Personjes secundarios.
 -Grace Van pel
--Wayne Rigsby
--killball Cho
--Madeleine Hightower
+Wayne Rigsby
+killball Cho
+Madeleine Hightower
 Para saber mas de los personajes vea el siguiente vinculo[the mentalist wiki](https://thementalist.fandom.com/wiki/Category:Characters)
